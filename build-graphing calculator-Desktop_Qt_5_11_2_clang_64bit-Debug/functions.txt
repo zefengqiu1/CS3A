@@ -1,0 +1,3 @@
+tan(x)
+cos(x)
+sin(pi/x)
